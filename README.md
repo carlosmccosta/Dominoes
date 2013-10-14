@@ -6,10 +6,13 @@ Small C++ project to manage a library using a command line interface.
 ![Menu](https://raw.github.com/carlosmccosta/MIEIC1-2S-PROG/master/Project%201%20-%20Library%20management/Screenshots/Menu.PNG)
 
 
+
 ## Project 2 - Dominoes
 C++ command line dominoes game with AI embedded.
 
+
 1 - Start
+
 ![1 - Start](https://raw.github.com/carlosmccosta/MIEIC1-2S-PROG/master/Project%202%20-%20Dominoes/Screenshots/1%20-%20Start.png)
 
 2 - New game
