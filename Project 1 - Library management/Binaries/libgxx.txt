@@ -1,0 +1,1 @@
+22 serialization::archive 9 0 0 0 0 2 0 0 0 2 1 12 Carlos Costa 1 2 0 1 2 2 2 12 Vitor Amalio 0 0 0 0 0 2 0 0 0 2 1 8 Os Maias 14 Eça de Queiros 1 2 2 4 tron 4 loll 0 9 users.txt 9 books.txt
